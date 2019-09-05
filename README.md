@@ -1,6 +1,8 @@
 # Sorting Algorithms
 > A quick dive into sorting algorithms
 
+
+
 Written in Java, I am re-exploring the algorithms I learned at University, starting with basic BubbleSort and making my 
 way back to QuickSort, ShellSort, MergeSort and HeapSort. 
 
