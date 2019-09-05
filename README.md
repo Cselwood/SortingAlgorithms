@@ -8,7 +8,7 @@ way back to QuickSort, ShellSort, MergeSort and HeapSort.
 
 **Download Sorts**
 
-See https://github.com/Cselwood/latest/SortingAlgorithms/
+See https://github.com/Cselwood/SortingAlgorithms/
 
 ## What and Why
 
