@@ -1,11 +1,18 @@
 # Sorting Algorithms
+> A quick dive into sorting algorithms
 
-Written in Java, I am re-exploring the algorithms I learned at University, starting with basic sorting and making my 
-way back to advanced data structures.
+Written in Java, I am re-exploring the algorithms I learned at University, starting with basic BubbleSort and making my 
+way back to QuickSort, ShellSort, MergeSort and HeapSort. 
+
+**Download Sorts**
+
+See https://github.com/Cselwood/latest/SortingAlgorithms/
 
 ## What and Why
 
-BubbleSorting is an extremely simple sorting algorithm, that was my young programming self's first port-of-call for sorting any array of integers (like many of us). It boasts an inefficient BigO(n^2), with an average performance that is also quadratic. In this example, I used an array of 100 numbers to keep things simple, and that means the best case scenario for this algorithm is a linear performance, requiring all numbers to be already sorted (not likely). 
+* Java-based Sorting Algorithms
+* Showcases Time Complexity
+* Examples For New Java Programmers
 
 ## Release History
 
@@ -24,4 +31,4 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-Fork it if you like (<https://github.com/Cselwood/BubbleSort/fork>)
+Fork it if you like (<https://github.com/Cselwood/SortingAlgorithms/fork>)
