@@ -1,5 +1,4 @@
-# Bubble Sort
-> My short code in my sorting series highlighting a quadratic bubble sort algorithm
+# Sorting Algorithms
 
 Written in Java, I am re-exploring the algorithms I learned at University, starting with basic sorting and making my 
 way back to advanced data structures.
@@ -10,8 +9,10 @@ BubbleSorting is an extremely simple sorting algorithm, that was my young progra
 
 ## Release History
 
-* 1.0
-    * Released as complete, open to additional updates and suggestions
+* 0.2
+    * Expanded repo to include submodules for all sorting algorithms
+* 0.1
+    * Released originally as BubbleSort repo
 
 ## Meta
 
