@@ -57,4 +57,5 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
+If you see an issue, an efficiency that could be made, or an improvement, program away!
 Fork it if you like (<https://github.com/Cselwood/SortingAlgorithms/fork>)
