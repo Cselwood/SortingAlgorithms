@@ -3,8 +3,7 @@
 
 
 
-Written in Java, I am re-exploring the algorithms I learned at University, starting with basic BubbleSort and making my 
-way back to QuickSort, ShellSort, MergeSort and HeapSort. 
+Written in Java, I am re-exploring the algorithms I learned at University, I'm learning from old notes, new references and different techniques from what I have done previously.
 
 **Download Sorts**
 
@@ -15,6 +14,30 @@ See https://github.com/Cselwood/SortingAlgorithms/
 * Java-based Sorting Algorithms
 * Showcases Time Complexity
 * Examples For New Java Programmers
+* Categorised Into Major Complexity Categories
+
+## Which Sorts?
+
+* Binary Insertion
+* Bogo (Infinite/Stupid)
+* Bubble
+* Bucket
+* Cocktail (Shaker)
+* Comb
+* Cycle
+* Gnome
+* Heap
+* Insertion
+* Iterative Quick
+* Merge
+* Odd Even
+* Pancake
+* Quick
+* Radix
+* Recursive Bubble
+* Selection
+* Shell
+* Stooge
 
 ## Release History
 
