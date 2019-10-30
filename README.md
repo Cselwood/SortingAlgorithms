@@ -40,7 +40,8 @@ See https://github.com/Cselwood/SortingAlgorithms/
 * Stooge
 
 ## Release History
-
+* 1.0
+    * Full release of all sorts
 * 0.2
     * Expanded repo to include submodules for all sorting algorithms
 * 0.1
