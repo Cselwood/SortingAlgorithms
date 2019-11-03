@@ -19,7 +19,7 @@ See https://github.com/Cselwood/SortingAlgorithms/
 ## Which Sorts?
 
 * Binary Insertion
-* Bogo (Infinite/Stupid)
+* Bogo (Infinite/Stupid) - Needs Fixing
 * Bubble
 * Bucket
 * Cocktail (Shaker)
